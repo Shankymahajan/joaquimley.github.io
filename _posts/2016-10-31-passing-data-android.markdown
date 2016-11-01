@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [AndroidBits] Passing data in Android
+title: AndroidBits - Passing data in Android
 date: '2016-10-31'
 cover_image: '/content/images/2016/intent.jpg'
 ---
