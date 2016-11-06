@@ -3,11 +3,12 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Permalinks
-permalink:        pretty
+# permalink:        pretty
+permalink:        :title/
 
 # Setup
 title:            Joaquim Ley
-description:      'Hello I work as an Android Developer at Olx | Naspers. Besides coding, I <3 design, photography and playing some sweet blues.'
+description:      'Hello I work as an Android Developer at Olx | Naspers. Besides coding, I <3 design, photography and playing the blues on the guitar.'
 url:              http://joaquimley.com
 baseurl:          /
 logo:             /content/profile_pic.jpg
