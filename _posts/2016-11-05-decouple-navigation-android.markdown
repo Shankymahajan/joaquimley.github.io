@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AndroidBits - How to decouple navigation between your views
-date: '2016-10-31'
+date: '2016-11-05'
 cover_image: '/content/images/2016/navigation.jpg'
 ---
 
