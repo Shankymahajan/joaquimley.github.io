@@ -2,7 +2,7 @@
 layout: post
 title: Presenation - droidconUK 2016 Recap
 date: '2016-11-11'
-cover_image: '/content/images/2016/presentation.png'
+cover_image: '/content/images/2016/droidcon-UK-presentation.png'
 ---
 
 Slides for my presentation recaping Huyen's talk about the ConstraintLayout and the UI editor and how they work together which was privately held at **OLX Lisbon Tech Hub**.
