@@ -11,6 +11,6 @@ After seeing an awesome concept on [MaterialUp by Praveen Bisht](https://www.upl
 
 - The sample is also available on the **[Playstore](https://play.google.com/store/apps/details?id=com.joaquimley.faboptions.sample){:target="_blank"}** for preview.
 
-- I'll write a blog post about the whole build and publish process soon, in the meantime if you have any questions or feedback you can always [open an issue](https://github.com/JoaquimLey/FabOptions/issues) or contact me on [twitter](https://twitter.com/JoaquimLey).
+- I'll write a blog post about the whole build and publish process soon, in the meantime if you have any questions or feedback you can always [open an issue](https://github.com/JoaquimLey/FabOptions/issues){:target="_blank"} or contact me on [twitter](https://twitter.com/JoaquimLey){:target="_blank"}.
 
 Kudos to **Praveen Bisht** for the awesome idea and design!
