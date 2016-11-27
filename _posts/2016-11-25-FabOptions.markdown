@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FabOptions open source library
-date: '2016-11-05'
+date: '2016-11-25'
 cover_image: '/content/images/2016/faboptions.jpg'
 ---
 
